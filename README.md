@@ -30,11 +30,11 @@ This project implements a secure federated learning system for COVID-19 detectio
 
 ## 🔧 Features
 
-- 🛡️ Privacy-preserving COVID-19 detection using chest X-rays
-- 🏥 Federated learning across 3 simulated hospitals using AWS EC2 instances
-- 🔒 Homomorphic encryption for secure weight sharing using TenSEAL
-- ⚡ Optimized COVID-Net model for encrypted data processing
-- 📊 Comprehensive evaluation metrics and benchmarking against published works
+- Privacy-preserving COVID-19 detection using chest X-rays
+- Federated learning across 3 simulated hospitals using AWS EC2 instances
+- Homomorphic encryption for secure weight sharing using TenSEAL
+- Optimized COVID-Net model for encrypted data processing
+- Comprehensive evaluation metrics and benchmarking against published works
 
 ## 🏗️ Architecture
 
@@ -42,10 +42,10 @@ This project implements a secure federated learning system for COVID-19 detectio
 
 Our system follows a general federated learning architecture with the following key components:
 
-1. 🏥 Local hospital environments (5 simulated using AWS EC2 instances)
-2. 🔗 Central aggregator for secure weight aggregation
-3. 🔒 Homomorphic encryption layer using TenSEAL for privacy preservation
-4. 🧠 COVID-Net CXR model adapted for encrypted computations
+1. Local hospital environments (5 simulated using AWS EC2 instances)
+2. Central aggregator for secure weight aggregation
+3. Homomorphic encryption layer using TenSEAL for privacy preservation
+4. COVID-Net CXR model adapted for encrypted computations
 
 ## 🛠️ Installation
 
