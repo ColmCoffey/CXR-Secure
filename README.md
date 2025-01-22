@@ -1,30 +1,4 @@
-# CXR Secure: Federated Learning for COVID-19 Detection
 
-## ✍️ Author(s) Details
-
-- Colm Coffey MSc
-
-- [LinkedIn](http://linkedin.com/in/colm-coffey/)
-
-- [View Portfolio](https://drive.google.com/file/d/1JEqqHS_o56ehmzYib8gg85UB9U89VczC/view?pli=1)
-
-
-## 📚 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Benchmarks](#benchmarks)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
-
-## 🌟 Project Overview
 
 This project implements a secure federated learning system for COVID-19 detection using chest X-rays. By leveraging homomorphic encryption and federated learning techniques, we enable collaborative model training across multiple healthcare institutions without compromising patient privacy. The system is built upon the COVID-Net model and optimized for performance in encrypted domains.
 
