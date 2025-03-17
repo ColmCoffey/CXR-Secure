@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c896af81-706f-4064-a907-6fd1253203e9" alt="image">
 </p
+
+<p align="center">
+  <em>Image Source: <a href="https://blogs.nvidia.com/blog/what-is-federated-learning/" target="_blank">NVIDIA Blog</a></em>
+</p
+
 This project implements a secure federated learning system for COVID-19 detection using chest X-rays. By leveraging homomorphic encryption and federated learning techniques, we enable collaborative model training across multiple healthcare institutions without compromising patient privacy. The system is built upon the COVID-Net model and optimized for performance in encrypted domains.
 
 ## 🔍 Overview
